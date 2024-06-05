@@ -470,10 +470,6 @@ footer {
     display: none;
   }
 
-  .project__wrapper {
-    border-radius: 0;
-  }
-
   .project__description {
     padding: 0;
     left: 0;
